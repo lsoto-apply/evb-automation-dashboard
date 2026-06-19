@@ -1,15 +1,38 @@
 {
-  "lastUpdated": "2026-06-19T12:04:19.357466+00:00",
+  "lastUpdated": "2026-06-19T17:54:39.952252+00:00",
   "jira": {
     "summary": {
-      "total": 21,
+      "total": 23,
       "byStatus": {
+        "In Progress": 1,
+        "To Do": 18,
         "Done": 3,
-        "Releasing": 1,
-        "To Do": 17
+        "Releasing": 1
       }
     },
     "tickets": [
+      {
+        "key": "EVB-240",
+        "url": "https://reigncl.atlassian.net/browse/EVB-240",
+        "summary": "Generar alertas en slack cuando fallen las pruebas",
+        "status": "In Progress",
+        "statusCategory": "indeterminate",
+        "assignee": "Luis Soto",
+        "updated": "2026-06-19T11:08:44.485-0300",
+        "priority": "Medium",
+        "labels": []
+      },
+      {
+        "key": "EVB-241",
+        "url": "https://reigncl.atlassian.net/browse/EVB-241",
+        "summary": "Agregar productos - Tipo alcoholes",
+        "status": "To Do",
+        "statusCategory": "new",
+        "assignee": "Luis Soto",
+        "updated": "2026-06-19T11:04:46.810-0300",
+        "priority": "Medium",
+        "labels": []
+      },
       {
         "key": "EVB-35",
         "url": "https://reigncl.atlassian.net/browse/EVB-35",

@@ -1,12 +1,11 @@
 {
-  "lastUpdated": "2026-06-23T11:13:57.270728+00:00",
+  "lastUpdated": "2026-06-23T14:43:40.698206+00:00",
   "jira": {
     "summary": {
       "total": 23,
       "byStatus": {
-        "PO Review": 1,
+        "Done": 4,
         "To Do": 18,
-        "Done": 3,
         "Releasing": 1
       }
     },
@@ -15,10 +14,10 @@
         "key": "EVB-240",
         "url": "https://reigncl.atlassian.net/browse/EVB-240",
         "summary": "Generar alertas en slack cuando fallen las pruebas",
-        "status": "PO Review",
-        "statusCategory": "indeterminate",
+        "status": "Done",
+        "statusCategory": "done",
         "assignee": "Luis Soto",
-        "updated": "2026-06-22T22:56:36.517-0300",
+        "updated": "2026-06-23T10:53:50.974-0300",
         "priority": "Medium",
         "labels": []
       },

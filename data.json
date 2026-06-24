@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-06-24T14:28:46.210582+00:00",
+  "lastUpdated": "2026-06-24T17:52:15.304070+00:00",
   "jira": {
     "summary": {
       "total": 23,
       "byStatus": {
+        "In Progress": 1,
         "Done": 4,
-        "To Do": 18,
-        "Releasing": 1
+        "Releasing": 1,
+        "To Do": 17
       }
     },
     "tickets": [
+      {
+        "key": "EVB-241",
+        "url": "https://reigncl.atlassian.net/browse/EVB-241",
+        "summary": "Agregar productos - Tipo alcoholes",
+        "status": "In Progress",
+        "statusCategory": "indeterminate",
+        "assignee": "Luis Soto",
+        "updated": "2026-06-24T12:21:59.570-0300",
+        "priority": "Medium",
+        "labels": []
+      },
       {
         "key": "EVB-240",
         "url": "https://reigncl.atlassian.net/browse/EVB-240",
@@ -18,17 +30,6 @@
         "statusCategory": "done",
         "assignee": "Luis Soto",
         "updated": "2026-06-23T10:53:50.974-0300",
-        "priority": "Medium",
-        "labels": []
-      },
-      {
-        "key": "EVB-241",
-        "url": "https://reigncl.atlassian.net/browse/EVB-241",
-        "summary": "Agregar productos - Tipo alcoholes",
-        "status": "To Do",
-        "statusCategory": "new",
-        "assignee": "Luis Soto",
-        "updated": "2026-06-19T11:04:46.810-0300",
         "priority": "Medium",
         "labels": []
       },

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T10:49:16.381241+00:00",
+  "lastUpdated": "2026-06-26T14:20:27.625409+00:00",
   "jira": {
     "summary": {
       "total": 23,
@@ -275,9 +275,9 @@
       "scopeFolderName": "Flujos  B2B WEB > Chile"
     },
     "coverage": {
-      "total": 231,
+      "total": 232,
       "automated": 5,
-      "notAutomated": 169,
+      "notAutomated": 170,
       "unclassified": 57,
       "automatedPct": 2.2,
       "byFolder": [
@@ -336,6 +336,15 @@
           "total": 19
         },
         {
+          "folderId": 742,
+          "name": "Carro de compras",
+          "group": "Test Funcionales",
+          "automated": 3,
+          "notAutomated": 12,
+          "unclassified": 0,
+          "total": 15
+        },
+        {
           "folderId": 738,
           "name": "Login",
           "group": "Test Funcionales",
@@ -343,15 +352,6 @@
           "notAutomated": 13,
           "unclassified": 0,
           "total": 15
-        },
-        {
-          "folderId": 742,
-          "name": "Carro de compras",
-          "group": "Test Funcionales",
-          "automated": 3,
-          "notAutomated": 11,
-          "unclassified": 0,
-          "total": 14
         },
         {
           "folderId": 66,
@@ -457,6 +457,14 @@
       "recent": []
     },
     "cases": [
+      {
+        "id": 125487,
+        "name": "Producto Categor\u00eda Alcoholes",
+        "folderId": 742,
+        "folderPath": "Flujos  B2B WEB > Chile > Test Funcionales > Carro de compras",
+        "bucket": "notAutomated",
+        "priority": 2
+      },
       {
         "id": 110712,
         "name": "Pedido Con Diferentes M\u00e9todos De Pago",

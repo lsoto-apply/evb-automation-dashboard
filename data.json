@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-06-26T14:20:27.625409+00:00",
+  "lastUpdated": "2026-06-26T17:45:14.752621+00:00",
   "jira": {
     "summary": {
       "total": 23,
       "byStatus": {
-        "In Progress": 1,
+        "PO Review": 1,
         "Done": 4,
         "Releasing": 1,
         "To Do": 17
@@ -15,10 +15,10 @@
         "key": "EVB-241",
         "url": "https://reigncl.atlassian.net/browse/EVB-241",
         "summary": "Agregar productos - Tipo alcoholes",
-        "status": "In Progress",
+        "status": "PO Review",
         "statusCategory": "indeterminate",
         "assignee": "Luis Soto",
-        "updated": "2026-06-24T12:21:59.570-0300",
+        "updated": "2026-06-26T14:30:32.980-0300",
         "priority": "Medium",
         "labels": []
       },

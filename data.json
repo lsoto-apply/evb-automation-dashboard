@@ -1,67 +1,22 @@
 {
-  "lastUpdated": "2026-07-08T13:59:13.743104+00:00",
+  "lastUpdated": "2026-07-08T17:26:43.654743+00:00",
   "jira": {
     "summary": {
       "total": 23,
       "byStatus": {
-        "Releasing": 2,
-        "Done": 4,
+        "Done": 6,
         "To Do": 17
       }
     },
     "tickets": [
       {
-        "key": "EVB-33",
-        "url": "https://reigncl.atlassian.net/browse/EVB-33",
-        "summary": "[QA-Automation][B2B-Chile] Login - Usuario Inv\u00e1lido",
-        "status": "Releasing",
-        "statusCategory": "indeterminate",
-        "assignee": "Luis Soto",
-        "updated": "2026-06-30T17:51:18.064-0300",
-        "priority": "Medium",
-        "labels": []
-      },
-      {
-        "key": "EVB-37",
-        "url": "https://reigncl.atlassian.net/browse/EVB-37",
-        "summary": "[QA-Automation][B2B-Chile] Carro de compras - Agregar producto con oferta",
-        "status": "Done",
-        "statusCategory": "done",
-        "assignee": "Luis Soto",
-        "updated": "2026-06-30T16:32:14.545-0300",
-        "priority": "Medium",
-        "labels": []
-      },
-      {
-        "key": "EVB-36",
-        "url": "https://reigncl.atlassian.net/browse/EVB-36",
-        "summary": "[QA-Automation][B2B-Chile] Carro de compras - Agregar producto con IVA",
-        "status": "Done",
-        "statusCategory": "done",
-        "assignee": "Luis Soto",
-        "updated": "2026-06-30T16:32:10.556-0300",
-        "priority": "Medium",
-        "labels": []
-      },
-      {
-        "key": "EVB-35",
-        "url": "https://reigncl.atlassian.net/browse/EVB-35",
-        "summary": "[QA-Automation][B2B-Chile] Carro de compras - Agregar producto frecuente",
-        "status": "Done",
-        "statusCategory": "done",
-        "assignee": "Luis Soto",
-        "updated": "2026-06-30T16:32:05.586-0300",
-        "priority": "Medium",
-        "labels": []
-      },
-      {
         "key": "EVB-241",
         "url": "https://reigncl.atlassian.net/browse/EVB-241",
         "summary": "Agregar productos - Tipo alcoholes",
-        "status": "Releasing",
-        "statusCategory": "indeterminate",
+        "status": "Done",
+        "statusCategory": "done",
         "assignee": "Luis Soto",
-        "updated": "2026-06-26T16:58:45.150-0300",
+        "updated": "2026-07-08T13:59:10.992-0300",
         "priority": "Medium",
         "labels": []
       },
@@ -72,7 +27,51 @@
         "status": "Done",
         "statusCategory": "done",
         "assignee": "Luis Soto",
-        "updated": "2026-06-23T10:53:50.974-0300",
+        "updated": "2026-07-08T13:58:53.902-0300",
+        "priority": "Medium",
+        "labels": []
+      },
+      {
+        "key": "EVB-37",
+        "url": "https://reigncl.atlassian.net/browse/EVB-37",
+        "summary": "[QA-Automation][B2B-Chile] Carro de compras - Agregar producto con oferta",
+        "status": "Done",
+        "statusCategory": "done",
+        "assignee": "Luis Soto",
+        "updated": "2026-07-08T13:50:39.217-0300",
+        "priority": "Medium",
+        "labels": []
+      },
+      {
+        "key": "EVB-36",
+        "url": "https://reigncl.atlassian.net/browse/EVB-36",
+        "summary": "[QA-Automation][B2B-Chile] Carro de compras - Agregar producto con IVA",
+        "status": "Done",
+        "statusCategory": "done",
+        "assignee": "Luis Soto",
+        "updated": "2026-07-08T13:50:16.963-0300",
+        "priority": "Medium",
+        "labels": []
+      },
+      {
+        "key": "EVB-35",
+        "url": "https://reigncl.atlassian.net/browse/EVB-35",
+        "summary": "[QA-Automation][B2B-Chile] Carro de compras - Agregar producto frecuente",
+        "status": "Done",
+        "statusCategory": "done",
+        "assignee": "Luis Soto",
+        "updated": "2026-07-08T13:50:13.676-0300",
+        "priority": "Medium",
+        "labels": []
+      },
+      {
+        "key": "EVB-33",
+        "url": "https://reigncl.atlassian.net/browse/EVB-33",
+        "summary": "[QA-Automation][B2B-Chile] Login - Usuario Inv\u00e1lido",
+        "status": "Done",
+        "statusCategory": "done",
+        "assignee": "Luis Soto",
+        "updated": "2026-07-08T13:50:09.735-0300",
         "priority": "Medium",
         "labels": []
       },

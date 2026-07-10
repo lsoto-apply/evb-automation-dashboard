@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T21:21:52.219578+00:00",
+  "lastUpdated": "2026-07-10T02:48:58.272693+00:00",
   "jira": {
     "summary": {
       "total": 23,
@@ -273,11 +273,11 @@
       "scopeFolderName": "Flujos  B2B WEB > Chile"
     },
     "coverage": {
-      "total": 232,
+      "total": 233,
       "automated": 5,
-      "notAutomated": 170,
+      "notAutomated": 171,
       "unclassified": 57,
-      "automatedPct": 2.2,
+      "automatedPct": 2.1,
       "byFolder": [
         {
           "folderId": 20464,
@@ -338,9 +338,9 @@
           "name": "Carro de compras",
           "group": "Test Funcionales",
           "automated": 3,
-          "notAutomated": 12,
+          "notAutomated": 13,
           "unclassified": 0,
-          "total": 15
+          "total": 16
         },
         {
           "folderId": 738,
@@ -455,6 +455,14 @@
       "recent": []
     },
     "cases": [
+      {
+        "id": 128174,
+        "name": "Producto Categor\u00eda Bebidas - Retornables",
+        "folderId": 742,
+        "folderPath": "Flujos  B2B WEB > Chile > Test Funcionales > Carro de compras",
+        "bucket": "notAutomated",
+        "priority": 2
+      },
       {
         "id": 125487,
         "name": "Producto Categor\u00eda Alcoholes",

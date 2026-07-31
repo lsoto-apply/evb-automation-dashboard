@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T10:35:53.004859+00:00",
+  "lastUpdated": "2026-07-31T13:59:28.835171+00:00",
   "jira": {
     "summary": {
       "total": 23,
@@ -274,9 +274,9 @@
       "scopeFolderName": "Flujos  B2B WEB > Chile"
     },
     "coverage": {
-      "total": 233,
+      "total": 237,
       "automated": 5,
-      "notAutomated": 171,
+      "notAutomated": 175,
       "unclassified": 57,
       "automatedPct": 2.1,
       "byFolder": [
@@ -303,9 +303,9 @@
           "name": "Promociones / Ofertas",
           "group": "Test Funcionales",
           "automated": 0,
-          "notAutomated": 25,
+          "notAutomated": 26,
           "unclassified": 0,
-          "total": 25
+          "total": 26
         },
         {
           "folderId": 740,
@@ -339,9 +339,9 @@
           "name": "Carro de compras",
           "group": "Test Funcionales",
           "automated": 3,
-          "notAutomated": 13,
+          "notAutomated": 15,
           "unclassified": 0,
-          "total": 16
+          "total": 18
         },
         {
           "folderId": 738,
@@ -357,9 +357,9 @@
           "name": "Tipos de Pedidos",
           "group": "Test Funcionales",
           "automated": 0,
-          "notAutomated": 8,
+          "notAutomated": 9,
           "unclassified": 0,
-          "total": 8
+          "total": 9
         },
         {
           "folderId": 745,
@@ -457,8 +457,40 @@
     },
     "cases": [
       {
+        "id": 133828,
+        "name": "Productos con plan activo",
+        "folderId": 742,
+        "folderPath": "Flujos  B2B WEB > Chile > Test Funcionales > Carro de compras",
+        "bucket": "notAutomated",
+        "priority": 2
+      },
+      {
+        "id": 133827,
+        "name": "Promotions LLEVAMASPAGAMENOS",
+        "folderId": 743,
+        "folderPath": "Flujos  B2B WEB > Chile > Test Funcionales > Promociones / Ofertas",
+        "bucket": "notAutomated",
+        "priority": 2
+      },
+      {
+        "id": 133826,
+        "name": "Productor Categor\u00eda Retornables",
+        "folderId": 742,
+        "folderPath": "Flujos  B2B WEB > Chile > Test Funcionales > Carro de compras",
+        "bucket": "notAutomated",
+        "priority": 2
+      },
+      {
+        "id": 133825,
+        "name": "Compra Con Productos Con Alcohol",
+        "folderId": 66,
+        "folderPath": "Flujos  B2B WEB > Chile > Test Funcionales > Tipos de Pedidos",
+        "bucket": "notAutomated",
+        "priority": 1
+      },
+      {
         "id": 128174,
-        "name": "Producto Categor\u00eda Bebidas - Retornables",
+        "name": "Producto Categor\u00eda Bebidas - desechables",
         "folderId": 742,
         "folderPath": "Flujos  B2B WEB > Chile > Test Funcionales > Carro de compras",
         "bucket": "notAutomated",
@@ -2282,7 +2314,7 @@
       },
       {
         "id": 278,
-        "name": "Compra Con Productos Con Alcohol",
+        "name": "Compra Con Productos Retornables",
         "folderId": 66,
         "folderPath": "Flujos  B2B WEB > Chile > Test Funcionales > Tipos de Pedidos",
         "bucket": "notAutomated",

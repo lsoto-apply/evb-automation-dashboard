@@ -1,27 +1,16 @@
 {
-  "lastUpdated": "2026-08-22T01:04:28.363371+00:00",
+  "lastUpdated": "2026-08-22T04:29:38.876668+00:00",
   "jira": {
     "summary": {
       "total": 23,
       "byStatus": {
-        "In QA": 1,
         "In Progress": 1,
+        "In QA": 1,
         "Done": 6,
         "To Do": 15
       }
     },
     "tickets": [
-      {
-        "key": "EVB-38",
-        "url": "https://reigncl.atlassian.net/browse/EVB-38",
-        "summary": "[QA-Automation][B2B-Chile] Carro de compras - C\u00e1lculo de montos y totales",
-        "status": "In QA",
-        "statusCategory": "indeterminate",
-        "assignee": "Luis Soto",
-        "updated": "2026-08-19T11:46:55.154-0300",
-        "priority": "Medium",
-        "labels": []
-      },
       {
         "key": "EVB-39",
         "url": "https://reigncl.atlassian.net/browse/EVB-39",
@@ -29,7 +18,18 @@
         "status": "In Progress",
         "statusCategory": "indeterminate",
         "assignee": "Luis Soto",
-        "updated": "2026-08-12T14:31:36.936-0300",
+        "updated": "2026-08-21T23:02:53.260-0300",
+        "priority": "Medium",
+        "labels": []
+      },
+      {
+        "key": "EVB-38",
+        "url": "https://reigncl.atlassian.net/browse/EVB-38",
+        "summary": "[QA-Automation][B2B-Chile] Carro de compras - C\u00e1lculo de montos y totales",
+        "status": "In QA",
+        "statusCategory": "indeterminate",
+        "assignee": "Luis Soto",
+        "updated": "2026-08-21T23:02:53.011-0300",
         "priority": "Medium",
         "labels": []
       },

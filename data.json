@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-01T09:09:19.122146+00:00",
+  "lastUpdated": "2026-09-01T16:02:45.835846+00:00",
   "jira": {
     "summary": {
       "total": 23,
       "byStatus": {
-        "PO Review": 1,
+        "Releasing": 1,
         "In Progress": 1,
         "Done": 6,
         "To Do": 15
@@ -15,10 +15,10 @@
         "key": "EVB-38",
         "url": "https://reigncl.atlassian.net/browse/EVB-38",
         "summary": "[QA-Automation][B2B-Chile] Carro de compras - C\u00e1lculo de montos y totales",
-        "status": "PO Review",
+        "status": "Releasing",
         "statusCategory": "indeterminate",
         "assignee": "Luis Soto",
-        "updated": "2026-08-27T17:53:51.494-0300",
+        "updated": "2026-09-01T11:29:16.150-0300",
         "priority": "Medium",
         "labels": []
       },

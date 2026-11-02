@@ -1,16 +1,27 @@
 {
-  "lastUpdated": "2026-11-02T04:23:39.142193+00:00",
+  "lastUpdated": "2026-11-02T17:47:04.893751+00:00",
   "jira": {
     "summary": {
       "total": 23,
       "byStatus": {
-        "Releasing": 1,
         "In Progress": 1,
+        "Releasing": 1,
         "Done": 6,
         "To Do": 15
       }
     },
     "tickets": [
+      {
+        "key": "EVB-39",
+        "url": "https://reigncl.atlassian.net/browse/EVB-39",
+        "summary": "[QA-Automation][B2B-Chile] Carro de compras - CTA Continuar pedido",
+        "status": "In Progress",
+        "statusCategory": "indeterminate",
+        "assignee": "Luis Soto",
+        "updated": "2026-11-02T11:58:58.178-0300",
+        "priority": "Medium",
+        "labels": []
+      },
       {
         "key": "EVB-38",
         "url": "https://reigncl.atlassian.net/browse/EVB-38",
@@ -19,17 +30,6 @@
         "statusCategory": "indeterminate",
         "assignee": "Luis Soto",
         "updated": "2026-10-29T10:56:26.682-0300",
-        "priority": "Medium",
-        "labels": []
-      },
-      {
-        "key": "EVB-39",
-        "url": "https://reigncl.atlassian.net/browse/EVB-39",
-        "summary": "[QA-Automation][B2B-Chile] Carro de compras - CTA Continuar pedido",
-        "status": "In Progress",
-        "statusCategory": "indeterminate",
-        "assignee": "Luis Soto",
-        "updated": "2026-10-16T21:35:22.224-0300",
         "priority": "Medium",
         "labels": []
       },

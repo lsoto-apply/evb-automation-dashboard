@@ -1,12 +1,11 @@
 {
-  "lastUpdated": "2026-11-04T11:50:28.397907+00:00",
+  "lastUpdated": "2026-11-04T19:20:18.011318+00:00",
   "jira": {
     "summary": {
       "total": 23,
       "byStatus": {
-        "In Progress": 1,
+        "Done": 7,
         "Releasing": 1,
-        "Done": 6,
         "To Do": 15
       }
     },
@@ -15,10 +14,10 @@
         "key": "EVB-39",
         "url": "https://reigncl.atlassian.net/browse/EVB-39",
         "summary": "[QA-Automation][B2B-Chile] Carro de compras - CTA Continuar pedido",
-        "status": "In Progress",
-        "statusCategory": "indeterminate",
+        "status": "Done",
+        "statusCategory": "done",
         "assignee": "Luis Soto",
-        "updated": "2026-11-02T11:58:58.178-0300",
+        "updated": "2026-11-04T10:38:13.076-0300",
         "priority": "Medium",
         "labels": []
       },
